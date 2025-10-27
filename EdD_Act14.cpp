@@ -14,7 +14,7 @@ int main() {
         .numElements = 10
     };
 
-    // Mostrar el árbol como arreglo
+    // Mostrar el Ã¡rbol como arreglo
     printf("Arbol binario representado en arreglo:\n");
     for (int i = 0; i < tree.numElements; i++) {
         printf("Indice %d -> %c\n", i, tree.nodes[i]);
@@ -23,7 +23,7 @@ int main() {
     return 0;
 }
 */
-////////////////////////////////// añadiendo nodos 
+////////////////////////////////// aÃ±adiendo nodos 
 
 #include <stdio.h>
 #define MAX_ELEMENTS 11
